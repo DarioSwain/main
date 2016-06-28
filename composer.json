@@ -1,0 +1,15 @@
+{
+    "name": "dario_swain/main",
+    "authors": [
+        {
+            "name": "Ilya Pokamestov",
+            "email": "dario_swain@yahoo.com"
+        }
+    ],
+    "require": {},
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1.x-dev"
+        }
+    }
+}
